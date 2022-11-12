@@ -1,0 +1,11 @@
+C:\Users\Apple_kun\Desktop\TCPGeckoSharp-Example\TCPGeckoSharp-Example\bin\Debug\TCPGeckoSharp-Example.exe.config
+C:\Users\Apple_kun\Desktop\TCPGeckoSharp-Example\TCPGeckoSharp-Example\bin\Debug\TCPGeckoSharp-Example.exe
+C:\Users\Apple_kun\Desktop\TCPGeckoSharp-Example\TCPGeckoSharp-Example\bin\Debug\TCPGeckoSharp-Example.pdb
+C:\Users\Apple_kun\Desktop\TCPGeckoSharp-Example\TCPGeckoSharp-Example\obj\Debug\TCPGeckoSharp-Example.csproj.AssemblyReference.cache
+C:\Users\Apple_kun\Desktop\TCPGeckoSharp-Example\TCPGeckoSharp-Example\obj\Debug\TCPGeckoSharp-Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\Apple_kun\Desktop\TCPGeckoSharp-Example\TCPGeckoSharp-Example\obj\Debug\TCPGeckoSharp_Example.Example.resources
+C:\Users\Apple_kun\Desktop\TCPGeckoSharp-Example\TCPGeckoSharp-Example\obj\Debug\TCPGeckoSharp_Example.Properties.Resources.resources
+C:\Users\Apple_kun\Desktop\TCPGeckoSharp-Example\TCPGeckoSharp-Example\obj\Debug\TCPGeckoSharp-Example.csproj.GenerateResource.cache
+C:\Users\Apple_kun\Desktop\TCPGeckoSharp-Example\TCPGeckoSharp-Example\obj\Debug\TCPGeckoSharp-Example.csproj.CoreCompileInputs.cache
+C:\Users\Apple_kun\Desktop\TCPGeckoSharp-Example\TCPGeckoSharp-Example\obj\Debug\TCPGeckoSharp-Example.exe
+C:\Users\Apple_kun\Desktop\TCPGeckoSharp-Example\TCPGeckoSharp-Example\obj\Debug\TCPGeckoSharp-Example.pdb
