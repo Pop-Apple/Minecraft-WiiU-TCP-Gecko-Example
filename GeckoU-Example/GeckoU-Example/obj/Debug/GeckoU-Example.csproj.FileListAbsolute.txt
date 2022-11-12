@@ -1,0 +1,11 @@
+C:\Users\Apple_kun\Desktop\GeckoU-Example\GeckoU-Example\bin\Debug\GeckoU-Example.exe.config
+C:\Users\Apple_kun\Desktop\GeckoU-Example\GeckoU-Example\bin\Debug\GeckoU-Example.exe
+C:\Users\Apple_kun\Desktop\GeckoU-Example\GeckoU-Example\bin\Debug\GeckoU-Example.pdb
+C:\Users\Apple_kun\Desktop\GeckoU-Example\GeckoU-Example\obj\Debug\GeckoU-Example.csproj.AssemblyReference.cache
+C:\Users\Apple_kun\Desktop\GeckoU-Example\GeckoU-Example\obj\Debug\GeckoU-Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\Apple_kun\Desktop\GeckoU-Example\GeckoU-Example\obj\Debug\GeckoU_Example.Example.resources
+C:\Users\Apple_kun\Desktop\GeckoU-Example\GeckoU-Example\obj\Debug\GeckoU_Example.Properties.Resources.resources
+C:\Users\Apple_kun\Desktop\GeckoU-Example\GeckoU-Example\obj\Debug\GeckoU-Example.csproj.GenerateResource.cache
+C:\Users\Apple_kun\Desktop\GeckoU-Example\GeckoU-Example\obj\Debug\GeckoU-Example.csproj.CoreCompileInputs.cache
+C:\Users\Apple_kun\Desktop\GeckoU-Example\GeckoU-Example\obj\Debug\GeckoU-Example.exe
+C:\Users\Apple_kun\Desktop\GeckoU-Example\GeckoU-Example\obj\Debug\GeckoU-Example.pdb
