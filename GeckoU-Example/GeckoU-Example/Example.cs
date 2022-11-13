@@ -40,7 +40,6 @@ namespace GeckoU_Example
 
         private void DisconnectButton_Click(object sender, EventArgs e)
         {
-
             GeckoU.GUC.Close();
             this.ConnectButton.Text = "Connect";
             this.ConnectButton.Enabled = true;
